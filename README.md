@@ -25,7 +25,7 @@ It displays a bar chart and a line chart on the same graph with labeled axes.
    pip install dash
 
    Run the app:
-python main.py
+     python main.py
 
 Open your browser and go to:
 http://127.0.0.1:8050/
