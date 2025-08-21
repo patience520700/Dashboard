@@ -1,7 +1,6 @@
 # 📊 My Dashboard 
  
  [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 
  This is a simple interactive dashboard built using [Dash](https://dash.plotly.com/) (by Plotly).  
 It displays a bar chart and a line chart on the same graph with labeled axes.
